@@ -1,0 +1,1 @@
+{"vcf_types": {"GA11_3_S126534": "vardict"}, "vcf_files": {"GA11_3_S126534": "/data/Unit_LMM/selberherr-group/kacar/ngs-gatk-trial/results/ssv_calling/BSF_1274_H3CTKDSX5#GA11_3_S126534_final_vcf"}, "cnv_files": {"GA11_3_S126534": "/data/Unit_LMM/selberherr-group/kacar/ngs-gatk-trial/results/phylo/GA11_3_S126534_corr.cnv.txt"}, "samples": ["GA11_3_S126534"]}
