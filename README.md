@@ -1,5 +1,6 @@
-##Spatial Heterogeneity in Glioblastoma
+# Spatial Heterogeneity in Glioblastoma
 
+## Abstract
 Glioblastoma (GBM), the most prevalent malignant primary brain tumor in adults, shows
 a notable intratumor heterogeneity. Despite advancements in treatment, the diverse
 patient responses underscore the variances within tumor tissues and across patients.
@@ -7,8 +8,9 @@ An important determinant, intratumor heterogeneity stems from somatic modificati
 including small somatic mutations and copy number changes. The multi-region, bulk
 whole-exome sequencing data of GBM tumor samples mirror a cellular amalgam,
 wherein the count of distinct cell populations (including clones and subclones) and their
-proportional ratios remain elusive. In this thesis, we used the gold standard somatic
-and copy number variant calling protocols from the Broad Institute. This was followed
+proportional ratios remain elusive. 
+
+In this thesis, we used the gold standard somatic and copy number variant calling protocols from the Broad Institute. This was followed
 by the application of PhyloWGS to evaluate tumor phylogenies employing variant allele
 frequency estimations. Among the identified driver genes, namely RPS3A, BRCA2,
 NCOR2, CDK12, PTEN, MYEOV, KMT2D, TP53, SETBP1, and KMT2C, the distribution
